@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LiJinrun
+- 👋 Hi, I’m @lijinrun
 - 👀 I’m interested in MachineLearning and DeepLearning.
 - 🌱 I’m currently learning GNN.
 - 💞️ I’m looking to collaborate on Multiple Objection Tracking.
